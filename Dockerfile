@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:10-alpine
 
 MAINTAINER Andrey Groza <andrey_groza@mail.ru>
 
