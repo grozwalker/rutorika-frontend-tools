@@ -3,9 +3,10 @@
 * bower
 * gulp-cli 
 * grunt-cli
-* gulp 
+* gulp
 * grunt
 * svgo
+
 
 ## Usage
 ### Run
